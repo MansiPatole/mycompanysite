@@ -93,6 +93,10 @@ header{
     background-image: url('../images/banner.png');
     height: 80vh;
     position: relative;
+    background-size:cover;
+    background-position:center;
+    background-repeat:norepeat;
+
 }
 
 .header-text{
